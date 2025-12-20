@@ -5,7 +5,9 @@
 **Ozone Next.js Scanner** is a specialized reconnaissance tool designed to audit websites built with the **Next.js** framework.
 
 It uses **Selenium** to render the page, extracts the unique `buildId`, and then constructs hidden JSON API endpoints (`/_next/data/...`) to reveal backend data that is not visible in the source code.
-
+---
+⚠️ Disclaimer
+This tool is developed by Ozone for educational purposes and security research only.
 ---
 
 ## ⚡ Features
